@@ -55,6 +55,6 @@ Pod::Spec.new do |s|
   end
   
   s.subspec 'Resources' do |ss|
-    ss.source_files = 'Resources/PrivacyInfo'
+    ss.source_files = 'Resources'
   end
 end
