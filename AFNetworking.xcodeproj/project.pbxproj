@@ -488,7 +488,7 @@
 		2995222F1BBF104D00859F49 = {
 			isa = PBXGroup;
 			children = (
-				64BC45DC2C19ED980095E390 /* PrivacyInfo.xcprivacy */,
+				64CB73802C1B209C00FADC20 /* Resources */,
 				299522451BBF125A00859F49 /* AFNetworking */,
 				299522851BBF13C700859F49 /* UIKit+AFNetworking */,
 				2995223B1BBF104D00859F49 /* Supporting Files */,
@@ -591,6 +591,14 @@
 				5F4323B51BF63741003B8749 /* google.com.cer */,
 			);
 			path = Google.com;
+			sourceTree = "<group>";
+		};
+		64CB73802C1B209C00FADC20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				64BC45DC2C19ED980095E390 /* PrivacyInfo.xcprivacy */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
